@@ -1,7 +1,5 @@
 Author: Toni Peral
 
-Cecotec Prueba
-
     ReactJs + ES6
     SASS
     Github Repository
