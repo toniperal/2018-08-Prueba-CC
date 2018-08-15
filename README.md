@@ -5,7 +5,7 @@ Author: Toni Peral
     Github Repository
     FlexBox with Bootrap 4(new version incorporates Flexbox)
     Jquery Validation Login
-    Componentes
+    Components
 
 
 Quick start
