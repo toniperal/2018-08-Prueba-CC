@@ -6,6 +6,7 @@ Author: Toni Peral
     FlexBox with Bootrap 4(new version incorporates Flexbox)
     Jquery Validation Login
     Components
+    Webpack
 
 
 Quick start
